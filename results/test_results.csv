@@ -1,0 +1,7 @@
+Setting,Model,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC
+SMOTE,Random Forest,0.767,0.546,0.714,0.619,0.836,0.617
+SMOTE,Logistic Regression,0.737,0.503,0.797,0.617,0.84,0.635
+SMOTE,KNN,0.723,0.487,0.81,0.608,0.824,0.599
+Baseline,Logistic Regression,0.803,0.65,0.556,0.599,0.841,0.627
+Baseline,Random Forest,0.796,0.648,0.508,0.57,0.843,0.65
+Baseline,KNN,0.774,0.577,0.559,0.568,0.828,0.612
